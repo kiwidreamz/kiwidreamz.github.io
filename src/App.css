@@ -57,7 +57,7 @@
 .rotation {
 	display: flex;
 	height: 6vmin;
-	margin-top: 8.5rem;
+	margin-top: 55%;
 	margin-left: 5rem;
 	margin-right: 5rem;
 	filter: invert(31%) sepia(7%) saturate(23%) hue-rotate(314deg) brightness(88%) contrast(89%);
@@ -66,22 +66,16 @@
 	filter: invert(89%) sepia(4%) saturate(4%) hue-rotate(314deg) brightness(82%) contrast(89%);
 }
 
-.scroll {
-	height: 10vmin;
-	filter: invert(95%) sepia(7%) saturate(1584%) hue-rotate(160deg) brightness(97%) contrast(92%);
-	margin-left: 111rem;
-	margin-bottom: 33px;
-}
 
 #cvdownloadbutton {
-	margin-top: 3rem;
-	margin-bottom: 2rem;
+	margin-top: 3em;
+	margin-bottom: 2em;
 }
 
 .cv-download {
 	display: inline-block;
 	margin: 0 auto;
-	margin-bottom: 2rem;
+	margin-bottom: 2em;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -201,7 +195,7 @@ span::after {
 	align-items: center;
 	justify-content: center;
 	flex-wrap: wrap;
-	margin-top: 20rem;
+	margin-top: 10em;
 }
   
 .project-card {
